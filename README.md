@@ -1,3 +1,3 @@
 # testrepository
-smth interesting
+smth
 test
